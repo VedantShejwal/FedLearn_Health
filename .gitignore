@@ -2,5 +2,4 @@ venv
 temp.py
 branch-project
 captone_project_completed.zip
-client\firebase_utils\federated-learning-c4283-firebase-adminsdk-xmdd3-5a25ebd3ed.json
-server\firebase_utils\federated-learning-c4283-firebase-adminsdk-xmdd3-5a25ebd3ed.json
+*.json
